@@ -1,6 +1,5 @@
-### Hi there 👋
 
-# Full-Stack Web Developer
+# Full-Stack Web Developer 👋
 
 Experienced Software Engineer with an excellent reputation for building websites and web applications. I am operating code and computers to master my skills and collaborate to make great products. 
 
@@ -12,9 +11,10 @@ Frankly, I am very excited about learning and mixing different skills.
 
 ## SKILLS
 
-Front-End: JavaScript, Bootstrap, Angular, JBake, HTML5, CSS3, Markdown
-Tools & Methods: Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Web Storm, Intellij, Xampp, Jira, Slack
-Professional: Remote Pair-Programming, Teamwork
+- **Front-End:** JavaScript, Bootstrap, Angular, JBake, HTML5, CSS3, Markdown
+- **Tools & Methods:** Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Web Storm, Intellij, Xampp, Jira, Slack
+- **Professional:** Remote Pair-Programming, Teamwork
+- 🌱 I’m currently learning **Ruby**
 
 
 ## Get in touch
