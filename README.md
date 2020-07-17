@@ -1,9 +1,7 @@
 
 # Full-Stack Web Developer 👋
 
-Experienced Software Engineer with an excellent reputation for building websites and web applications. I am operating code and computers to master my skills and collaborate to make great products. 
-
-I have an entirely open mind for working in any field and getting experience. 
+Experienced Software Engineer with an excellent reputation for building websites and web applications. I am operating code and computers to master my skills and collaborate to make great products. I have an entirely open mind for working in any field and getting experience. 
 
 Frankly, I am very excited about learning and mixing different skills.
 
