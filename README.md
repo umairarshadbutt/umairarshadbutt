@@ -1,31 +1,22 @@
-### Hi there 👋
+# Hey, what's happening?
 
-I am an experienced **Full-Stack Web Developer** with an excellent reputation for building websites and web applications. I am operating code and computers to master my skills and collaborate to make great products. I have an entirely open mind for working in any field and getting experience. 
+I'm Umair Arshad, but a lot of people just call me Umair.
 
-Frankly, I am very excited about learning and mixing different skills.
+Here's a little about what I'm currently up to:
 
+- 🔥 I work as a software engineer
+- 🦙 Pronouns: [He/Him/His/Himself](https://pronoun.is/he)
+- 🏗 I’m currently working on building more projects so as to be able to showcase my skills
+- 🧙🏻‍♂️ I'm currently learning Ruby
+- 👨🏻‍🎓 Ask me about Frontend Development
 
+My hobbies include random stuff like music 👨🏻‍🎤, reading 📚 and coffee ☕️.
 
-###  SKILLS
-
-- **Code:** JavaScript, Bootstrap, Angular, JBake, HTML5, CSS3, Markdown
-- **Tools & Methods:** Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Web Storm, Intellij, Xampp, Jira, Slack
-- **Professional:** Remote Pair-Programming, Teamwork
-
-
-🌱 I’m currently learning **Ruby**
-
-
-###  📫 How to reach me
-
-- website: [@umairarshad.me](https://umairarshad.me/)
-- twitter: [@its_UmairArshad](https://twitter.com/its_UmairArshad)
-- medium: [@umair6622](https://medium.com/@umair6622)
-- linkedin: [@umair-arshad-butt](https://www.linkedin.com/in/umair-arshad-butt/)
+If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/umair-arshad-butt/) DM or on the contact form through my [personal portfolio site](http://umairarshad.me/).
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/?username=umairarshadbutt)](https://github.com/umairarshadbutt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=umairarshadbutt&show_icons=true&hide_border=true)](https://github.com/umairarshadbutt/github-readme-stats)
 
 <!--
 **umairarshadbutt/umairarshadbutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,4 +31,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+###  📫 How to reach me
+
+- website: [@umairarshad.me](https://umairarshad.me/)
+- twitter: [@its_UmairArshad](https://twitter.com/its_UmairArshad)
+- medium: [@umair6622](https://medium.com/@umair6622)
+- linkedin: [@umair-arshad-butt](https://www.linkedin.com/in/umair-arshad-butt/)
 -->
