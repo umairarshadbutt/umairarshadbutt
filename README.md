@@ -3,6 +3,7 @@
 I'm Umair Arshad, but a lot of people just call me Umair.
 
 Here's a little about what I'm currently up to:
+  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=umairarshadbutt&show_icons=true&hide_border=true" />
 
 - 🔥 I work as a software engineer
 - 🦙 Pronouns: [He/Him/His/Himself](https://pronoun.is/he)
@@ -14,9 +15,6 @@ My hobbies include random stuff like music 👨🏻‍🎤, reading 📚 and cof
 
 If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/umair-arshad-butt/) DM or on the contact form through my [personal portfolio site](http://umairarshad.me/).
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/?username=umairarshadbutt&show_icons=true&hide_border=true)](https://github.com/umairarshadbutt/github-readme-stats)
 
 <!--
 **umairarshadbutt/umairarshadbutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
