@@ -10,6 +10,13 @@ Here's a little about what I'm currently up to:
 - 🧙🏻‍♂️ I'm currently learning Ruby <code><img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 - 👨🏻‍🎓 Ask me about Frontend Development
 
+My hobbies include random stuff like music 👨🏻‍🎤, reading 📚 and coffee ☕️.
+
+If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/umair-arshad-butt/) DM or on the contact form through my [personal portfolio site](http://umairarshad.me/).
+
+
+<!--
+**umairarshadbutt/umairarshadbutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -26,13 +33,6 @@ Here's a little about what I'm currently up to:
 
 
 
-My hobbies include random stuff like music 👨🏻‍🎤, reading 📚 and coffee ☕️.
-
-If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/umair-arshad-butt/) DM or on the contact form through my [personal portfolio site](http://umairarshad.me/).
-
-
-<!--
-**umairarshadbutt/umairarshadbutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
