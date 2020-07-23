@@ -1,9 +1,8 @@
 # Hey, what's happening?
 
 I'm Umair Arshad, but a lot of people just call me Umair.
-
-Here's a little about what I'm currently up to:
   <img align="right" src="https://github-readme-stats.vercel.app/api/?username=umairarshadbutt&show_icons=true&hide_border=true" />
+Here's a little about what I'm currently up to:
 
 - 🔥 I work as a software engineer
 - 🦙 Pronouns: [He/Him/His/Himself](https://pronoun.is/he)
