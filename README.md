@@ -1,20 +1,29 @@
-# Hey, what's happening?
-
-I'm Umair Arshad, but a lot of people just call me Umair.
-  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=umairarshadbutt&show_icons=true&hide_border=true" />
-Here's a little about what I'm currently up to:
-
-- 🔥 I work as a software engineer
-- 🦙 Pronouns: [He/Him/His/Himself](https://pronoun.is/he)
-- 🏗 I’m currently working on building more projects so as to be able to showcase my skills
-- 🧙🏻‍♂️ I'm currently learning Ruby <code><img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-- 👨🏻‍🎓 Ask me about Frontend Development
+[![Umair's github stats](https://github-readme-stats.vercel.app/api?username=umairarshadbutt&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/umairarshadbutt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umairarshadbutt&show_icons=true&layout=compact&theme=vue)](https://github.com/umairarshadbutt/github-readme-stats)
 
 
+- If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/umair-arshad-butt/) DM or on the contact form through my [personal portfolio site](http://umairarshad.me/)
 
-My hobbies include random stuff like music 👨🏻‍🎤, reading 📚 and coffee ☕️.
-
-If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/umair-arshad-butt/) DM or on the contact form through my [personal portfolio site](http://umairarshad.me/).
+<div align="center">
+<a href="https://github.com/umairarshadbutt">
+  <img align="left" alt="Umair | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.linkedin.com/in/umair-arshad-butt/">
+  <img align="left" alt="Umair' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/its_UmairArshad">
+  <img align="left" alt="Umair Arshad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.quora.com/profile/Umair-Arshad-75">
+  <img align="left" alt="Umair' Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
+</a>
+<a href="https://sourcerer.io/umairarshadbutt">
+  <img alt="Umair | Sourcerer" width="22px" align="left" src="https://sourcerer.io/icons/logo-sharing.svg" >
+</a>
+<a href="https://umairarshad.me/">
+  <img align="left" alt="Umair Arshad | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
+</a>
+</div>
 
 
 <!--
