@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umairarshadbutt&show_icons=true&layout=compact&theme=vue)](https://github.com/umairarshadbutt/github-readme-stats)
 
 
-- If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/umair-arshad-butt/) DM or on the contact form through my [personal portfolio site](http://umairarshad.me/)
+##### If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/umair-arshad-butt/) DM or on the contact form through my [personal portfolio site](http://umairarshad.me/)
 
 <div align="center">
 <a href="https://github.com/umairarshadbutt">
