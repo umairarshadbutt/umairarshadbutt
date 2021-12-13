@@ -1,5 +1,10 @@
-[![Umair's github stats](https://github-readme-stats.vercel.app/api?username=umairarshadbutt&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/umairarshadbutt/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umairarshadbutt&show_icons=true&layout=compact&theme=vue)](https://github.com/umairarshadbutt/github-readme-stats)
+<!-- [![Umair's github stats](https://github-readme-stats.vercel.app/api?username=umairarshadbutt&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/umairarshadbutt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umairarshadbutt&show_icons=true&layout=compact&theme=vue)](https://github.com/umairarshadbutt/github-readme-stats) -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/umairarshadbutt/count.svg" />
+</p>
 
 
 # 🚧 why are you not on [my web site](https://umairarshad.me/) 🚧
